@@ -5,7 +5,7 @@ class Config:
     API_ID = int(23659063)
     API_HASH = "f3b6b069c202bcf984ca8b0df252a57e"
  
-    ADMINS = [5652656279, 1896730469, 7157859848, 6164338004, 6986346668, 7143731074]
+    ADMINS = [7143731074, 1896730469, 7157859848, 6164338004, 6986346668]
     DB_NAME = "Cluster0"
     DB_URL = "mongodb+srv://meetyadu666:GGRYoEJCNFTzeTjT@cluster0.25c3fnx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"     
     LOG_CHANNEL = int(-1002150768658)
